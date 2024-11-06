@@ -3,6 +3,7 @@ CALCULATOR WITH 🧪🧮 SCIENTIFIC FUNCTIONS
 
 ## Folder Structure
 
+```
 📂 scientific-calculator
    
    |
@@ -28,6 +29,7 @@ The project folder structure consists of the following files:
 - 📄 Calculator.h: This file contains the declaration of the `Calculator` class and its member functions.
 
 - 📄 Calculator.cpp: This file contains the definition of the `Calculator` class member functions.
+```
 
 ## Usage
 
